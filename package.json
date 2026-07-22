@@ -1,0 +1,8 @@
+{
+  "name": "ar-cleaning-services",
+  "version": "1.0.0",
+  "description": "AR Cleaning Services Management App",
+  "scripts": {
+    "start": "npx serve"
+  }
+}
