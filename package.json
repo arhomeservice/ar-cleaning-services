@@ -1,8 +1,6 @@
 {
-  "name": "ar-cleaning-services",
+  "name": "arcs-management-platform",
   "version": "1.0.0",
-  "description": "AR Cleaning Services Management App",
-  "scripts": {
-    "start": "npx serve"
-  }
+  "private": true,
+  "description": "AR Cleaning Services \u2014 Management Platform (static, no build step)"
 }
